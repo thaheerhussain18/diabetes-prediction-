@@ -1,5 +1,5 @@
 # diabetes-prediction-
-libraries used pandas,numpy,metrices,joblib,django 
+libraries used pandas,numpy,metrices,joblib,django ,sklearn
 
 model was trained by Support Vector Machine Classifier and frontend connected with Django Framework
 
